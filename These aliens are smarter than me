@@ -1,0 +1,14 @@
+echo "# Mau587" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Mau587/Mau587.git
+git push -u origin main
+<a href="https://app.daily.dev/Mau5">
+<img 
+src="https://api.daily.dev/devcards/
+c2a8e408bae64bab96afad6db074f3
+df.png?r=aow" width="400" alt="Vic's 
+Dev Card"/></a>
+Mau5
